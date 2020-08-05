@@ -12,6 +12,8 @@ image::https://github.com/daubejb/daily-check-in/blob/master/Form.png?raw=true[C
 3. Students provide a mood score for how they feel today ( [Not so Good] 1 - through - 5 [Absolutely Great] )
 4. Teachers use dashboarding functionality within Google Sheets to provide reporting for school administrators, students and parents
 
+image::https://github.com/daubejb/daily-check-in/blob/master/Attendence.png?raw=true[Attendance dashboard]
+
 == Technology Overview
 
 This automation uses the following technologies:
