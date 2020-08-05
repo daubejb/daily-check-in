@@ -27,7 +27,7 @@ To learn more about Google Apps Script --> https://developers.google.com/apps-sc
 == Installation
 
 To obtain a free copy of this automation:
-1. Click * https://docs.google.com/forms/d/1NlM47wXwROOuNlV4FgG3g_bxM-hpj6BOIHuCg0bLQmg/template/preview *
-2. Click * USE TEMPLATE * to create a copy of the Daily Check-in Google Form
+1. Click *https://docs.google.com/forms/d/1NlM47wXwROOuNlV4FgG3g_bxM-hpj6BOIHuCg0bLQmg/template/preview*
+2. Click *USE TEMPLATE* to create a copy of the Daily Check-in Google Form
 
 == Setup
