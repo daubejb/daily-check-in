@@ -7,6 +7,7 @@ a simple gsuite automation to track daily student participation and mood
 1. Teachers give their students a single link to a google form to check-in every school day
 2. Students pick their name from a list to indicate participation
 3. Students provide a mood score for how they feel today ( [Not so Good] 1 - through - 5 [Absolutely Great] )
+4. Teachers use dashboarding functionality within Google Sheets to provide reporting for school administrators, students and parents
 
 == Technology Overview
 
