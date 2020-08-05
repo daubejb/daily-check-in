@@ -1,3 +1,12 @@
 = daily-check-in
 
 a simple gsuite automation to track daily student participation and mood
+
+== Technology Overview
+
+This automation uses the following technologies:
+
+- Google Forms --> https://www.google.com/forms/about/
+- Google Sheets --> https://www.google.com/sheets/about/
+- Google Apps Script --> https://developers.google.com/apps-script
+
