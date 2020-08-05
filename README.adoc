@@ -1,6 +1,6 @@
 = daily-check-in
 
-a simple gsuite automation to track daily student participation and mood
+A free simple gsuite automation for teachers to track daily student participation and mood.  Teachers are heros, period.  During this Covid and post-Covid world, Teachers should be empowered with technology so they can focus on their students and not on manual work to track activities.
 
 == Key features
 
